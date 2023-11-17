@@ -25,7 +25,7 @@
     > | Selector "h1", Property "color:", value "rgba(255, 210, 33, .75);" |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > | Good design influences people by appeal, accessibility, and user friendliness.    |
 
 08. What is the purpose of ***wireframing***?
     > | Wireframing allows you to plan and visualize the structure of the page you're creating. It also allows you to stylize and create the smaller details before having to write any html code. |
